@@ -7,6 +7,9 @@
 		<?php
 			echo "Stat using php and github to store code";
 		?>
+		<?php
+			echo "Stat using php and github to store code";
+		?>
 		
 	</body>
 </html>
